@@ -2,7 +2,6 @@
 
 Mods for [gen1recomp](https://github.com/bryanthaboi/gen1recomp). Each mod's repo here is its official mirror: grab the newest `.zip` from its Releases and install it in-game via **MODS > Import mod .zip**. Installed mods get update checks through the launcher automatically.
 
-- [Double Battles](https://github.com/shanehudson-gen1recomp-mods/double_battles) (`double_battles`)
 - [Free Fly](https://github.com/shanehudson-gen1recomp-mods/free_fly) (`free_fly`)
 - [Wild Skies](https://github.com/shanehudson-gen1recomp-mods/wild_skies) (`wild_skies`)
 
