@@ -2,6 +2,7 @@
 
 Mods for [gen1recomp](https://github.com/bryanthaboi/gen1recomp). Each mod's repo here is its official mirror: grab the newest `.zip` from its Releases and install it in-game via **MODS > Import mod .zip**. Installed mods get update checks through the launcher automatically.
 
+- [Dev Hook Inspector](https://github.com/shanehudson-gen1recomp-mods/dev-hook-inspector) (`dev-hook-inspector`)
 - [Free Fly](https://github.com/shanehudson-gen1recomp-mods/free_fly) (`free_fly`)
 - [Wild Skies](https://github.com/shanehudson-gen1recomp-mods/wild_skies) (`wild_skies`)
 
